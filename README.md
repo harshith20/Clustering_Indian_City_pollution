@@ -22,6 +22,10 @@ These are the things I wanted to do and check once I saw the data
   8.DO clusterering and categorize cities
   
   9.Predict cities polutant levels for the future and find max polluted city¶
+  
+  
+  Check out my kaggle notebook for more
+  https://www.kaggle.com/code/harshithswamy20/indian-air-pollution-with-clustering?scriptVersionId=114947143
 
 
 
